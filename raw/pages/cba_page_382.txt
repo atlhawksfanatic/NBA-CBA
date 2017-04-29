@@ -1,0 +1,38 @@
+360      Article XXII
+   (d) The Wearables Committee will jointly retain such experts as it
+deems necessary in order to conduct its work (e.g., to validate a wearable
+device or to set cybersecurity standards), which the parties expect to
+include professionals in areas such as engineering, data science, and
+cybersecurity. The costs of such experts will be borne equally by the NBA
+and the Players Association, and the Players Association’s share shall be
+paid by the NBA and included in Player Benefits under Article IV, Section
+6(k) of this Agreement.
+   (e) No Team may request a player to use any Wearable unless such
+device is one of the devices currently in use as set forth in Section 13(f)
+below or the device and the Team’s cybersecurity standards have been
+approved by the Committee pursuant to Section 13(c) above.
+   (f) Teams may continue to request that, on a voluntary basis, players
+use the following devices: adidas miCoach elite systems, Catapult Sports
+ClearSky and Optimeye systems, Intel Curie systems, STAT Sports Viper
+systems, VERT Wearable Jump Monitors, Zebra wearable tags, and
+Zephyr Bioharness systems. Once the six (6) members of the Wearables
+Committee have been appointed, the Committee will establish
+cybersecurity standards for the storage of wearable data, and within ninety
+(90) days of the Committee’s issuance of such standards, each Team using
+one or more Wearable pursuant to this paragraph must confirm to the
+NBA and the Players Association that it is in compliance with such
+standards. By June 30, 2017, the Committee must vote on the continued
+use of the devices set forth in this paragraph or determine that additional
+time is needed to evaluate a particular device. If upon evaluation by the
+Committee, any of the foregoing devices are reviewed and are not
+approved by the Committee, Teams will be required to discontinue the use
+of such Wearables.
+   (g) A Team may request a player to use in practice (or otherwise not in
+a game) on a voluntary basis a Wearable that has been approved by the
+Committee. A player may decline to use (or discontinue use of) a
+Wearable at any time. Before a Team could request that a player use an
+approved Wearable, the Team shall be required to provide the player a
+written, confidential explanation of: (i) what the device will measure; (ii)
+what each such measurement means; and (iii) the benefits to the player in
+obtaining such data.
+

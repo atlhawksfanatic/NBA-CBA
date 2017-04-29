@@ -1,0 +1,36 @@
+48      Article II
+  Aggregate Number of Players on Team’s          Maximum Number of
+  Active List and Inactive List (including       the Team’s players who
+  players signed to 10-Day Contracts, but        can be signed to 10-
+  not including Two-Way Players)                 Day Contracts
+                       12                                   0
+                       13                                   1
+                       14                                   2
+                       15                                   3
+For example, if a Team has thirteen (13) players on its Active List (not
+including any Two-Way Players) and no players on its Inactive List, then
+the Team may have one player under a 10-Day Contract. If a Team has
+thirteen (13) players on its Active List (including one (1) Two-Way Player)
+and two (2) players on its Inactive List (not including any Two-Way
+Players), then the Team may have two (2) players under a 10-Day
+Contract. If a Team has twelve (12) players on its Active List (not
+including any Two-Way Players) and three (3) players on its Inactive List
+(not including any Two-Way Players), then the Team may have three (3)
+players under a 10-Day Contract.
+   (d) No Team may enter into a 10-Day Contract if the length of such
+Contract, in accordance with Section 9(a), would extend to or past the date
+of the Team’s last Regular Season game for such Season.
+   (e) Notwithstanding anything to the contrary contained in a Uniform
+Player Contract, a 10-Day Contract shall be terminated simply by
+providing written notice to the player (and not by following the waiver
+procedure set forth in paragraph 16 of the Uniform Player Contract) and
+paying only such sums as are set forth in Exhibit 1A (or, if applicable,
+Exhibit 1) of such Contract.
+Section 10. Rest-of-Season Contracts.
+   (a) At any time after the first day of an NBA Regular Season, a Team
+may enter into a Player Contract that may provide Compensation to a
+player only for the remainder of that Season (a “Rest-of-Season
+Contract”).
+   (b) The Salary provided for in a Rest-of-Season Contract shall not be
+less than the Minimum Player Salary.
+

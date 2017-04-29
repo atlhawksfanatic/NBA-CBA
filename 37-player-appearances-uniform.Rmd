@@ -1,0 +1,10 @@
+# PLAYER APPEARANCES/UNIFORM
+
+## Player Appearances.
+
+A player may, during each Contract year covered by a Player Contract to which he is a party, be required to make up to two (2) appearances at the request of NBA Properties, Inc. in accordance with paragraph 13(d) of a Uniform Player Contract and Article II, Section 8. Any appearance that a player is required to make shall comply with the terms of Article II, Section 8, and when a player makes an appearance in accordance with this Section, he shall be paid at least \$3,500. When a player fails, without reasonable excuse, to appear or reasonably to cooperate during an appearance at any of the licensing appearances referred to in this Section, he may be fined for each failure in an amount up to \$20,000.
+
+## Uniform.
+
+(a) During any NBA game or practice, including warm-up periods and going to and from the locker room to the playing floor, a player shall wear only the Uniform as supplied by his Team. For purposes of the preceding sentence only, "Uniform" means all clothing and other items (such as kneepads, wristbands and headbands, but not including Sneakers) worn by a player during an NBA game or practice. "Sneakers" means athletic shoes of the type worn by players while playing an NBA game.
+(b) Other than as may be incorporated into his Uniform and the manufacturer's identification incorporated into his Sneakers, a player may not, during any NBA game, display any commercial, promotional, or charitable name, mark, logo or other identification, including but not limited to on his body, in his hair, or otherwise.

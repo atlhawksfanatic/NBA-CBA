@@ -1,0 +1,36 @@
+164   Article VII
+  (d) Adjustments to Salary Cap and Minimum Team Salary.
+      (1) In the event that Total Salaries and Benefits for any Salary
+      Cap Year are less than the Designated Share (as defined in Section
+      12(b)(3) below) for such Salary Cap Year, then the Salary Cap for
+      the subsequent Salary Cap Year shall be increased by the amount
+      of the shortfall divided by the number of Teams in the NBA
+      during such subsequent Salary Cap Year (other than Expansion
+      Teams in their first two (2) Salary Cap Years in the NBA).
+      (2) In the event that there is an Overage (as defined in Section
+      12(a)(14) below) in any Salary Cap Year, then the Salary Cap for
+      the subsequent Salary Cap Year shall be adjusted as follows:
+      (i)     If the amount of the Overage in the Salary Cap Year is
+              equal to or less than six percent (6%) of Total Salaries and
+              Benefits, then no adjustments shall be made to the Salary
+              Cap for the subsequent Salary Cap Year.
+      (ii)    If the amount of the Overage in the Salary Cap Year equals
+              more than six percent (6%) of Total Salaries and Benefits,
+              then the Salary Cap for the subsequent Salary Cap Year
+              shall be reduced by an amount to be calculated as follows:
+              STEP 1: Subtract six percent (6%) of Total Salaries and
+                         Benefits from the Overage.
+              STEP 2: If Projected BRI for the subsequent Salary Cap
+                         Year does not exceed BRI for the Salary Cap
+                         Year by more than eight percent (8%) of BRI for
+                         the Salary Cap Year or the amount of the
+                         Overage described above exceeds nine percent
+                         (9%) of Total Salaries and Benefits, then divide
+                         the result of Step 1 by the number of Teams in
+                         the NBA during the subsequent Salary Cap Year
+                         (other than Expansion Teams in their first two
+                         (2) Salary Cap Years in the NBA). The result of
+                         this calculation is the amount of the reduction in
+                         the Salary Cap for such subsequent Salary Cap
+                         Year, and no further steps are required.
+

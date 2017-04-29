@@ -1,0 +1,8 @@
+I-4-2    Exhibit I-4
+delivery service to the laboratory. If an electronic chain-of-custody form is
+used, it will be sent to the laboratory electronically.
+   Once the specimens arrive at the laboratory, the primary specimen will
+be analyzed. If the primary specimen tests positive, the split sample will be
+placed in frozen storage and will be available for testing by a different
+laboratory, if requested by the player.
+

@@ -1,0 +1,36 @@
+                                                        Article XXVII       373
+                                ARTICLE XXVII
+                             RIGHT OF SET-OFF
+Section 1.        Set-off Calculation.
+    (a) When a Team (“First Team”) terminates a Player Contract (“First
+Contract”) in circumstances where the First Team, following the
+termination, continues to be liable for unearned Base Compensation (i.e.,
+unearned as of the date of the termination) called for by the First Contract
+(including any unearned Deferred Base Compensation), the First Team’s
+liability for such unearned Base Compensation shall be reduced pro rata by
+a portion of the compensation earned by the player (for services as a
+player) from any professional basketball team or teams (the “Subsequent
+Team(s)”) during each Salary Cap Year covered by the term of the First
+Contract (including, but not limited to, compensation earned but not paid
+during such period). The amount of the reduction in the First Team’s
+liability (the “set-off” amount) shall be calculated for each Salary Cap Year
+covered by the term of the First Contract as follows:
+STEP 1: Calculate the total compensation earned by the player (for
+            services as a player) from the Subsequent Team(s) during the
+            Salary Cap Year.
+STEP 2: Subtract from the result in Step 1 (i) if the player had zero (0)
+            Years of Service at the time the First Contract was terminated,
+            the Minimum Annual Salary applicable to such player for the
+            Salary Cap Year in which the First Contract was terminated, or
+            (ii) if the player had one (1) or more Years of Service at the time
+            the First Contract was terminated, the Minimum Annual Salary
+            applicable to a player with one (1) Year of Service for the Salary
+            Cap Year in which the First Contract was terminated.
+STEP 3: If the result in Step 2 is zero or a negative amount, there is no
+            reduction in the First Team’s liability for unearned Base
+            Compensation in respect of the relevant Salary Cap Year. If the
+            result in Step 2 is a positive amount, the reduction in the First
+            Team’s liability for unearned Base Compensation in respect of
+            the relevant Salary Cap Year shall equal fifty percent (50%) of
+            such amount.
+

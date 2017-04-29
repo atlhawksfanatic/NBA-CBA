@@ -1,0 +1,39 @@
+170 Article VII
+    (2) Proration: Any signing bonus contained in a Player Contract
+    shall be allocated over the number of Salary Cap Years (or over the
+    then-current and any remaining Salary Cap Years in the case of a
+    signing bonus described in Section 3(b)(1)(ii) above) covered by
+    such Contract in proportion to the percentage of Base
+    Compensation in each such Salary Cap Year that, at the time of
+    allocation, is protected for lack of skill; provided, however, that if
+    the Player Contract provides for an Early Termination Option
+    (“ETO”), the foregoing allocation shall be performed only over
+    Salary Cap Years that precede the Effective Season of such ETO.
+    In the event that, at the time of allocation, none of the Base
+    Compensation provided for by a Player Contract (or none of the
+    then-current or remaining Base Compensation in the case of a
+    signing bonus described in Section 3(b)(1)(ii) above) is protected
+    for lack of skill, then the entire amount of the signing bonus shall
+    be allocated to the first Salary Cap Year of the Contract (or, in the
+    case of a signing bonus described in Section 3(b)(1)(ii) above, the
+    Salary Cap Year during which the player’s Contract is traded).
+    (3) Extensions:
+    (i)      In the event that a Team with a Team Salary at or over the
+             Salary Cap enters into an Extension that calls for or
+             contains a signing bonus, such signing bonus shall be paid
+             no sooner than the first day of the first Salary Cap Year
+             covered by the extended term and shall be allocated, in
+             equal parts, over the number of Salary Cap Years covered
+             by the extended term in proportion to the percentage of
+             Base Compensation in each such Salary Cap Year that, at
+             the time of allocation, is protected for lack of skill. In the
+             event that, at the time of the allocation, none of the Base
+             Compensation provided for during the extended term is
+             protected for lack of skill, then the entire amount of the
+             signing bonus shall be allocated to the first Salary Cap Year
+             of the extended term.
+    (ii)     A Team with a Team Salary below the Salary Cap may
+             enter into an Extension that calls for or contains a signing
+             bonus to be paid at any time during the Contract’s original
+             or extended term. In the event that a Team with a Team
+

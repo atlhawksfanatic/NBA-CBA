@@ -1,0 +1,24 @@
+# OFFER SHEET
+
+|                               |                               |
+| ----------------------------- | ----------------------------- |
+| Name of Player:               | Date:                         |
+| _________________________     | _________________________     |
+| Address of Player and Email Address of Player: | Name of New Team: |
+| _________________________     |                               |
+| _________________________     |                               |
+| _________________________     | _________________________     |
+| Name, Address and Email Address of Player's Representative Authorized to Act for Player: | Name of ROFR Team: |
+| _________________________     | _________________________     |
+| _________________________     | Address of ROFR Team:         |
+| _________________________     | _________________________     |
+| _________________________     | _________________________     |
+
+
+Attached hereto is an unsigned Player Contract that the New Team has offered to the Player and that the Player desires to accept. The attached Player Contract separately specifies in its exhibits those Principal Terms that will be included in the Player Contract with the ROFR Team if that Team gives the Player a timely First Refusal Exercise Notice.
+
+|                              |                              |
+| ---------------------------- | ---------------------------- |
+| Player:                      | New Team:                    |
+|                              |                              |
+| By _________________________ | By _________________________ |
