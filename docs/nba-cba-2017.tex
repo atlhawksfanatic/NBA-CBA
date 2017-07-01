@@ -84,7 +84,7 @@
   \postauthor{\par}
   \predate{\centering\large\emph}
   \postdate{\par}
-  \date{2017-05-25}
+  \date{2017-06-30}
 
 \usepackage{booktabs}
 \usepackage{enumitem}
@@ -100,6 +100,17 @@
 \renewcommand{\chaptername}{Article}
 \renewcommand{\thechapter}{\Roman{chapter}}
 
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
 \begin{document}
 \maketitle
 
@@ -110,24 +121,48 @@
 \chapter*{Preface}\label{preface}
 \addcontentsline{toc}{chapter}{Preface}
 
+\emph{If you are only interested in a pdf or epub of the CBA, then
+please click on the download icon at the top left (it is next to the
+``A'') and select the format you wish to download.}
+
+This is the 2017 NBA's Collective Bargaining Agreement (CBA) which has
+been converted to a text file, then broken up by Article and Exhibit to
+.Rmd files which then serves as the basis for this bookdown site. The
+literal pdf version of the CBA can be found on the
+\href{http://3c90sm37lsaecdwtr32v9qof.wpengine.netdna-cdn.com/wp-content/uploads/2016/02/2017-NBA-NBPA-Collective-Bargaining-Agreement.pdf}{NBPA's
+website}. It is a 598 page legal document which provides various rules
+of competition within the labor market for NBA players.
+
+The purpose of this site is two-fold:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  to provide easier navigation of the CBA through a structured format of
+  each Article and Section and
+\item
+  for me to better understand the CBA through this exercise.
+\end{enumerate}
+
+The current version of the CBA does not contain a navigable table of
+contents or bookmarks to the different Articles and Sections of the
+agreement. This makes searching through the document cumbersome and
+frustrating. Enter \href{https://bookdown.org/yihui/bookdown/}{bookdown}
+as a method for converting each Article in the CBA to its own chapter in
+bookdown and each Section as a sub-chapter. This will also provide
+different formats for the document to viewed (HTML, PDF, e-book) which
+will make viewing the CBA easier.
+
 I do not own any rights to the CBA and am simply redistributing it in a
 different format. This is not the official version of the CBA and I am
 not responsible for any errors that might be present in this document.
 If you believe you have found an error, please let me know and I will
-correct it. In addition, an html version of the CBA is available at
-\url{https://atlhawksfanatic.github.io/NBA-CBA/}.
+correct it.
 
-Contact:
-
-\begin{itemize}
-\tightlist
-\item
-  via email: \url{atlhawksfanatic@gmail.com}
-\item
-  through Github: \url{https://github.com/atlhawksfanatic}
-\item
-  on Github: \url{https://twitter.com/atlhawksfanatic}
-\end{itemize}
+Contact: \href{atlhawksfanatic@gmail.com}{via email},
+\href{https://github.com/atlhawksfanatic}{through Github}, or
+\href{https://twitter.com/atlhawksfanatic}{on Twitter}
 
 \chapter{DEFINITIONS}\label{definitions}
 
@@ -7142,11 +7177,13 @@ Salary Cap Year, the following rules shall apply:
     Season(s) in which any Deferred Compensation is earned. Deferred
     Compensation shall be included in a player's Salary for the Salary
     Cap Year encompassing the Season in which such Deferred Compensation
-    is earned. (2) Over 38 Rule: The following provisions shall apply to
-    any Player Contract entered into, extended, or renegotiated that,
-    beginning with the date such Contract, Extension or Renegotiation is
-    signed, covers four (4) or more Seasons, including one (1) or more
-    Seasons commencing after such player will reach or has reached age
+    is earned.
+  \item
+    Over 38 Rule: The following provisions shall apply to any Player
+    Contract entered into, extended, or renegotiated that, beginning
+    with the date such Contract, Extension or Renegotiation is signed,
+    covers four (4) or more Seasons, including one (1) or more Seasons
+    commencing after such player will reach or has reached age
     thirty-eight (38) (an ``Over 38 Contract''):
 
     \begin{enumerate}
