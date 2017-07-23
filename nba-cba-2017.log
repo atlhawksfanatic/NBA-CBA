@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.8.9)  30 JUN 2017 23:43
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.8.9)  22 JUL 2017 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,38 +813,38 @@ Package: amsthm 2015/03/04 v2.20.2
 (./nba-cba-2017.aux)
 \openout1 = `nba-cba-2017.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 114.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 114.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 115.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 115.
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 114.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 115.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Info: Redefining \microtypecontext on input line 114.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Info: Redefining \microtypecontext on input line 115.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: No adjustment of tracking.
@@ -889,7 +889,7 @@ ern Roman (RS)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box49
-Package hyperref Info: Link coloring OFF on input line 114.
+Package hyperref Info: Link coloring OFF on input line 115.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -897,17 +897,17 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count179
 )
-LaTeX Info: Redefining \ref on input line 114.
-LaTeX Info: Redefining \pageref on input line 114.
-LaTeX Info: Redefining \nameref on input line 114.
+LaTeX Info: Redefining \ref on input line 115.
+LaTeX Info: Redefining \pageref on input line 115.
+LaTeX Info: Redefining \nameref on input line 115.
 (./nba-cba-2017.out) (./nba-cba-2017.out)
 \@outlinefile=\write3
 \openout3 = `nba-cba-2017.out'.
 
-Package tocstyle Info: prepare \l@part for redefinition on input line 114.
-Package tocstyle Info: prepare \l@chapter for redefinition on input line 114.
-Package tocstyle Info: prepare \l@section for redefinition on input line 114.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 114.
+Package tocstyle Info: prepare \l@part for redefinition on input line 115.
+Package tocstyle Info: prepare \l@chapter for redefinition on input line 115.
+Package tocstyle Info: prepare \l@section for redefinition on input line 115.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 115.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -916,43 +916,43 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmr' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 114.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 115.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 114
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 115
 .
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 114
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 115
 .
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 114.
+(Font)              <10> on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 114.
+(Font)              <7> on input line 115.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 114.
-LaTeX Font Info:    Try loading font information for U+msa on input line 114.
+(Font)              <5> on input line 115.
+LaTeX Font Info:    Try loading font information for U+msa on input line 115.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 114.
+LaTeX Font Info:    Try loading font information for U+msb on input line 115.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Package tocstyle Info: prepare \l@subsection for redefinition on input line 114
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 115
 .
-Package tocstyle Info: prepare \l@table for redefinition on input line 114.
-Package tocstyle Info: prepare \l@figure for redefinition on input line 114.
+Package tocstyle Info: prepare \l@table for redefinition on input line 115.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 115.
 [1
 
 
@@ -2897,7 +2897,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [32] [33]
 LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 193
-5.
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -3065,7 +3065,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [130] [131]
-Underfull \hbox (badness 10000) in paragraph at lines 10491--10503
+Underfull \hbox (badness 10000) in paragraph at lines 10492--10504
 
  []
 
@@ -3223,7 +3223,7 @@ Article XXXI.
 [233
 
 ] [234] [235] [236] [237] [238]
-Underfull \hbox (badness 2809) in paragraph at lines 17138--17138
+Underfull \hbox (badness 2809) in paragraph at lines 17139--17139
 []\EU1/lmr/bx/n/14.4 Procedure with Respect to Fine and Suspension
  []
 
@@ -3251,7 +3251,7 @@ Article XXXIII.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [253] [254] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264] [265]
-Underfull \hbox (badness 1331) in paragraph at lines 19425--19440
+Underfull \hbox (badness 1331) in paragraph at lines 19426--19441
 \EU1/lmr/m/n/10 concentration, normalized Epitestosterone concentration or the 
 corresponding Baseline Testos-
  []
@@ -3304,7 +3304,7 @@ Article XLII.
 ] [292
 
 ]
-Appendix A.
+Exhibit A.
 [293] [294] [295] [296] [297] [298] [299]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3312,239 +3312,239 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [302] [303]
-Overfull \hbox (3.49501pt too wide) in alignment at lines 21385--21404
+Overfull \hbox (3.49501pt too wide) in alignment at lines 21386--21405
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 21404
+Underfull \vbox (badness 10000) detected at line 21405
  []
 
 [304] [305] [306]
-Underfull \vbox (badness 10000) detected at line 21583
+Underfull \vbox (badness 10000) detected at line 21584
  []
 
 
-Underfull \vbox (badness 10000) detected at line 21597
+Underfull \vbox (badness 10000) detected at line 21598
  []
 
 [307] [308] [309] [310]
-Overfull \hbox (4.61371pt too wide) in paragraph at lines 21782--21784
+Overfull \hbox (4.61371pt too wide) in paragraph at lines 21783--21785
  []|\EU1/lmr/m/n/10 _____| 
  []
 
 
-Overfull \hbox (9.15334pt too wide) in paragraph at lines 21786--21788
+Overfull \hbox (9.15334pt too wide) in paragraph at lines 21787--21789
  []|\EU1/lmr/m/n/10 _______________| 
  []
 
 
-Overfull \hbox (4.61371pt too wide) in paragraph at lines 21791--21793
+Overfull \hbox (4.61371pt too wide) in paragraph at lines 21792--21794
  []|\EU1/lmr/m/n/10 _____| 
  []
 
 
-Overfull \hbox (9.15334pt too wide) in paragraph at lines 21795--21797
+Overfull \hbox (9.15334pt too wide) in paragraph at lines 21796--21798
  []|\EU1/lmr/m/n/10 _______________| 
  []
 
 
-Overfull \hbox (4.61371pt too wide) in paragraph at lines 21800--21802
+Overfull \hbox (4.61371pt too wide) in paragraph at lines 21801--21803
  []|\EU1/lmr/m/n/10 _____| 
  []
 
 
-Overfull \hbox (9.15334pt too wide) in paragraph at lines 21804--21806
+Overfull \hbox (9.15334pt too wide) in paragraph at lines 21805--21807
  []|\EU1/lmr/m/n/10 _______________| 
  []
 
 
-Overfull \hbox (4.61371pt too wide) in paragraph at lines 21809--21811
+Overfull \hbox (4.61371pt too wide) in paragraph at lines 21810--21812
  []|\EU1/lmr/m/n/10 _____| 
  []
 
 
-Overfull \hbox (9.15334pt too wide) in paragraph at lines 21813--21815
+Overfull \hbox (9.15334pt too wide) in paragraph at lines 21814--21816
  []|\EU1/lmr/m/n/10 _______________| 
  []
 
 
-Overfull \hbox (4.61371pt too wide) in paragraph at lines 21818--21820
+Overfull \hbox (4.61371pt too wide) in paragraph at lines 21819--21821
  []|\EU1/lmr/m/n/10 _____| 
  []
 
 
-Overfull \hbox (9.15334pt too wide) in paragraph at lines 21822--21824
+Overfull \hbox (9.15334pt too wide) in paragraph at lines 21823--21825
  []|\EU1/lmr/m/n/10 _______________| 
  []
 
 [311] [312]
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 21995--21997
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 21996--21998
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 21998--22000
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 21999--22001
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22001--22003
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22002--22004
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22004--22006
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22005--22007
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22007--22009
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22008--22010
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22010--22012
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22011--22013
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22013--22015
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22014--22016
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22016--22018
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22017--22019
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22019--22021
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22020--22022
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22022--22024
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22023--22025
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 
-Overfull \hbox (1.83707pt too wide) in paragraph at lines 22025--22027
+Overfull \hbox (1.83707pt too wide) in paragraph at lines 22026--22028
 []|\EU1/lmr/m/n/10 ____________________________________________________________
 _|  
  []
 
 [313]
-Underfull \vbox (badness 10000) detected at line 22074
+Underfull \vbox (badness 10000) detected at line 22075
  []
 
 [314]
-Underfull \vbox (badness 10000) detected at line 22118
+Underfull \vbox (badness 10000) detected at line 22119
  []
 
 [315] [316] [317] [318] [319] [320]
-Appendix B.
+Exhibit B.
 [321
 
 ] [322] [323] [324]
-Appendix C.
+Exhibit C.
 [325
 
 ] [326
 
 ]
-Appendix D.
+Exhibit D.
 [327] [328
 
 ]
-Appendix E.
+Exhibit E.
 [329] [330
 
 ]
-Appendix F.
+Exhibit F.
 [331] [332] [333] [334] [335] [336]
-Appendix G.
+Exhibit G.
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24593--24595
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24594--24596
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24595--24597
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24596--24598
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24603--24605
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24604--24606
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24608--24610
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24609--24611
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24613--24615
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24614--24616
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24615--24617
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24616--24618
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24624--24626
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24625--24627
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24626--24628
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24627--24629
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24629--24631
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24630--24632
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24634--24636
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24635--24637
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24636--24638
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24637--24639
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24639--24641
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24640--24642
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24641--24643
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24642--24644
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Underfull \vbox (badness 10000) detected at line 24645
+Underfull \vbox (badness 10000) detected at line 24646
  []
 
 
-Underfull \vbox (badness 10000) detected at line 24661
+Underfull \vbox (badness 10000) detected at line 24662
  []
 
 [337
@@ -3552,90 +3552,90 @@ Underfull \vbox (badness 10000) detected at line 24661
 ] [338
 
 ]
-Appendix H.
+Exhibit H.
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24673--24675
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24674--24676
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24675--24677
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24676--24678
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24683--24685
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24684--24686
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24688--24690
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24689--24691
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24693--24695
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24694--24696
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24695--24697
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24696--24698
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24704--24706
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24705--24707
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24706--24708
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24707--24709
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24709--24711
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24710--24712
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24714--24716
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24715--24717
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24716--24718
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24717--24719
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24719--24721
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24720--24722
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Overfull \hbox (4.29584pt too wide) in paragraph at lines 24721--24723
+Overfull \hbox (4.29584pt too wide) in paragraph at lines 24722--24724
 []|\EU1/lmr/m/n/10 _________________________|  
  []
 
 
-Underfull \vbox (badness 10000) detected at line 24725
+Underfull \vbox (badness 10000) detected at line 24726
  []
 
 
-Underfull \vbox (badness 10000) detected at line 24737
+Underfull \vbox (badness 10000) detected at line 24738
  []
 
 [339] [340
 
 ]
-Appendix I.
+Exhibit I.
 
-Underfull \vbox (badness 10000) detected at line 24749
+Underfull \vbox (badness 10000) detected at line 24750
  []
 
 
-Underfull \vbox (badness 10000) detected at line 24773
+Underfull \vbox (badness 10000) detected at line 24774
  []
 
 [341] [342]
@@ -3650,23 +3650,23 @@ Underfull \vbox (badness 3612) has occurred while \output is active []
 [346] [347] [348] [349] [350
 
 ]
-Appendix J.
+Exhibit J.
 [351] [352]
-Underfull \vbox (badness 10000) detected at line 25791
+Underfull \vbox (badness 10000) detected at line 25792
  []
 
 [353] [354] [355] [356]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26069.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26070.
 [357]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 26069.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26070.
 (./nba-cba-2017.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 26069.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 26069.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 26070.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 26070.
  ) 
 Here is how much of TeX's memory you used:
  25798 strings out of 495536
  456984 string characters out of 6186182
- 567611 words of memory out of 5000000
+ 567610 words of memory out of 5000000
  28812 multiletter control sequences out of 15000+600000
  16383 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
