@@ -1,0 +1,99 @@
+# ANTI-COLLUSION PROVISIONS
+
+## No Collusion.
+
+Subject to Section 2 below, no NBA Team, its employees or agents, will enter into any contracts, combinations or conspiracies, express or implied, with the NBA or any other NBA Team, their employees or agents: (a) to negotiate or not to negotiate with any Veteran or Rookie; (b) to submit or not to submit an Offer Sheet to any Restricted Free Agent; (c) to offer or not to offer a Player Contract to any Free Agent; (d) to exercise or not to exercise a Right of First Refusal; or (e) concerning the terms or conditions of employment offered to any Veteran or Rookie.
+
+## Non-Collusive Conduct.
+
+The following is a non-exhaustive list of conduct that shall not be deemed a violation of Section 1 above:
+
+(a) the formulation and negotiation of collective bargaining proposals;
+(b) agreements between NBA Teams necessary to the assignment of a Player Contract of a Veteran or the assignment of the exclusive negotiating rights to a Draft Rookie, where such assignment is contingent upon (i) the signing by the Veteran of an amendment to an existing Player Contract (including, for example, an Extension), or (ii) the signing by the Draft Rookie of a new Player Contract; provided, however, that if such contingency is fulfilled by the Veteran entering into an amended Player Contract (including, for example, an Extension) or the Draft Rookie entering into a new Player Contract, this subsection shall only apply if the assignment is actually consummated;
+(c) an agreement between NBA Teams concerning the signing of a new Player Contract by a Veteran Free Agent with his Prior Team, where such agreement is necessary for the subsequent assignment of the new Player Contract between the agreeing Teams; provided, however, that this Section 2(c) shall apply only if the subsequent assignment is consummated, and only if the agreement and the new Player Contract comply with the provisions of Article VII, Section 8(e);
+(d) conduct authorized by the terms and conditions of the NBA Draft (as set forth in Article X above);
+(e) conduct authorized by any provision of this Agreement or conduct by the NBA League Office, undertaken in good faith, that reflects a reasonable interpretation of this Agreement or a Player Contract;
+(f) any action taken by the NBA League Office to exclude from the NBA, suspend or discipline any player for any reason authorized or permitted by any provision of this Agreement (this Section 2(f), however, shall not affect any other rights of any player or the Players Association to contest such action); or
+(g) any disapproval by the NBA Commissioner of a Player Contract, Extension, Renegotiation or other amendment.
+
+## Individual Negotiations.
+
+No NBA Team shall fail or refuse to negotiate with, or enter into a Player Contract with, any player who is free to negotiate and sign a Player Contract with any NBA Team, on any of the following grounds:
+
+(a) that the player has previously been subject to the exclusive negotiating rights obtained by another NBA Team in an NBA Draft; or
+(b) that the player has previously refused or failed to enter into a Player Contract containing an Option; or
+(c) that the player has become a Restricted Free Agent or an Unrestricted Free Agent; or
+(d) that the player is or has been subject to a Right of First Refusal.
+
+   The fact that a Team has not negotiated with, made any offers to, or entered into any Player Contracts with players who are free to negotiate and sign Player Contracts with any Team, shall not, by itself, be deemed proof that such Team failed or refused to negotiate with, make any offers to, or enter into any Player Contracts with any players on any of the prohibited grounds referred to in this Section 3.
+
+## League Disclosures.
+
+The NBA League Office shall not knowingly communicate or disclose, directly or indirectly, to any NBA Team that another NBA Team has negotiated with or is negotiating with any Restricted Free Agent, unless and until an Offer Sheet (as defined in Article XI, Section 5(b)) shall have been given to the ROFR Team (as defined in Article XI, Section 4(a)), or any Free Agent prior to the execution of a Player Contract with that player.
+
+## Enforcement of Anti-Collusion Provisions.
+
+(a) Any player, or the Players Association acting on behalf of a player or players, may bring an action before the System Arbitrator alleging a violation of Section 1 above. Issues of relief and liability shall be determined in the same proceeding (including the amount of damages, pursuant to Section 9 below, if any). The complaining party will bear the burden of demonstrating by a clear preponderance of the evidence that the challenged conduct was in violation of Section 1 above and caused economic injury to such player(s); provided, however, that the Players Association may, in the absence of economic injury to any player, bring an action before the System Arbitrator claiming a violation of Section 1 above (which must be proved by a clear preponderance of the evidence) and seeking only declaratory relief or a direction to cease and desist from the challenged conduct.
+(b) The provisions of this Agreement are not intended to create any substantive rights in any party, other than as provided for herein. This Agreement may be enforced, and any alleged violations may be remedied, only as provided for herein.
+
+## Satisfaction of Burden of Proof.
+
+The failure by a Team or Teams to submit Offer Sheets to Restricted Free Agents, or to make offers or sign Contracts for the playing services of Free Agents shall not, by itself or in combination only with evidence about the playing skills of the player(s) not receiving such offers or contracts, satisfy the burden of proof set forth in Section 5 above. However, such evidence may support a finding of a violation of Section 1 above, but only in combination with other evidence that either by itself or in combination with the evidence referred to in the immediately preceding sentence indicates that the challenged conduct was in violation of Section 1 above and, except in cases where the Players Association seeks only declaratory relief or a direction to cease and desist from the challenged conduct, caused economic injury to such player(s).
+
+## Summary Judgment.
+
+The System Arbitrator may, at any time following the conclusion of any permitted discovery, determine whether or not the complainant's evidence is sufficient to raise a genuine issue of material fact capable of satisfying the standards imposed by Sections 5 and 6 above. If the System Arbitrator determines that complainant's evidence is not so sufficient, he shall dismiss the action. In considering the sufficiency of the complainant's evidence, the System Arbitrator may consider documentary evidence and affidavits submitted by the parties.
+
+## Remedies for Economic Injury.
+
+In the event that an individual player or players, or the Players Association acting on his or their behalf, successfully proves a violation of Section 1 above that has caused economic injury, the player or players determined by the System Arbitrator to have suffered economic injury as a result of the violation will have the right:
+
+(a) to terminate his (or their) existing Player Contract(s) at his (or their) option (however, such termination shall not take effect until the conclusion of a then-ongoing NBA Season, if any). Such right of termination shall not arise until the recommendation of the System Arbitrator finding a violation is no longer subject to further appeal and must be exercised by the player within thirty (30) days therefrom. If, at the time the Player Contract is terminated, such player would have been an Unrestricted Free Agent pursuant to the provisions of this Agreement, he shall immediately become an Unrestricted Free Agent. If, at the time the Player Contract is terminated, such player would have been a Restricted Free Agent pursuant to the provisions of this Agreement, such player shall immediately become a Restricted Free Agent upon such termination; however, any such player may choose to reinstate his Player Contract at any time up until September 15 of that year; and
+(b) to recover damages as described in Section 9 below. However, if the player terminates his Player Contract under Section 8(a) above and does not reinstate it pursuant thereto, he may not recover damages for the period after such termination takes effect. A player who does not terminate his contract, or who reinstates it pursuant to Section 8(a) above, may recover damages for the entire period of his injury.
+
+## Calculation of Damages.
+
+Upon any finding of a violation of Section 1 above that has caused economic injury, compensatory damages (i.e., the amount by which any player has been injured as a result of such violation) and non-compensatory damages (i.e., the amount exceeding compensatory damages) shall be awarded as follows:
+
+(a) Two (2) times the amount of compensatory damages, in the event that all of the Teams found to have violated Section 1 above have committed such a violation for the first time. Any Team found to have committed such a violation for the first time shall be jointly and severally liable for two (2) times the amount of compensatory damages.
+(b) Three (3) times the amount of compensatory damages, in the event that any of the Teams found to have violated Section 1 above have committed such a violation for the second time during the term of this Agreement. In the event that damages are awarded pursuant to this Section 9(b): (i) any Team found to have committed such a violation for the first time shall be jointly and severally liable for two (2) times the amount of compensatory damages; and (ii) any Team found to have committed such a violation for the second time during the term of this Agreement shall be jointly and severally liable for three (3) times the amount of compensatory damages.
+(c) Three (3) times the amount of compensatory damages, plus, for each Team found to have violated Section 1 above for at least the third time during the term of this Agreement, four million dollars (\$4,000,000), in the event that any of the Teams found to have violated Section 1 above have committed such violation for at least the third time during the term of this Agreement. In the event that damages are awarded pursuant to this Section 9(c): (i) any Team found to have committed such a violation for the first time shall be jointly and severally liable for two (2) times the amount of compensatory damages; (ii) any Team found to have committed such a violation for at least the second time during the term of this Agreement shall be jointly and severally liable for three (3) times the amount of compensatory damages; and (iii) any Team found to have committed such a violation for at least the third time during the term of this Agreement shall, in addition, pay a fine of four million dollars (\$4,000,000).
+
+## Payment of Damages.
+
+In the event damages are awarded pursuant to Section 9 above, the amount of compensatory damages shall be paid to the injured player or players. The amount of non-compensatory damages, including any fines, shall be paid to the Players Association, which may use it for any purpose other than to pay it to any player who has received compensatory damages, except that any such player may receive some portion of a non-compensatory damage award as part of a proportional distribution to Players Association members.
+
+## Effect of Damages on Salary Cap.
+
+In the event damages are awarded pursuant to Section 9 above, the amount of non-compensatory damages, including any fines, will not be included in any of the computations described in Article VII above. The amount of compensatory damages awarded will be included in such computations.
+
+## Contribution.
+
+Any Team found liable under Section 1 above shall have the right to seek contribution from any other Team found liable for the same violation in a proceeding before the Commissioner who shall determine what contribution, if any, is fair and equitable. The Commissioner's determination with regard to contribution shall be final and binding upon and unappealable by any Team. A contribution determination by the Commissioner may be appealed by the Players Association to the System Arbitrator, except that if such a determination involves fewer than four (4) Teams found to have committed a violation of Section 1 above and allocates damages equally among the Teams found liable, there shall be no appeal to the System Arbitrator. In the event of a contribution determination by the Commissioner, the NBA shall provide the Players Association with the data and information that the Commissioner used or relied upon in making his determination. Any contribution determination appealed by the Players Association to the System Arbitrator shall be upheld unless it is clearly erroneous.
+
+## No Reimbursement.
+
+Any damages awarded pursuant to Section 9 above must be paid by the individual Teams found liable and those Teams may not be reimbursed or indemnified by any other Team or the NBA, except to the extent of any award of contribution made pursuant to Section 12 above.
+
+## Costs.
+
+In any action brought for an alleged violation of Section 1 above, the System Arbitrator shall order the payment of reasonable attorneys' fees by any party found to have brought such an action or to have asserted a defense to such an action without any reasonable basis for asserting such a claim or defense.
+
+## Termination of Agreement.
+
+The Players Association shall have the right to terminate this Agreement (pursuant to the procedure set forth in Article XXXIX, Section 3 of this Agreement), under the following circumstances:
+
+(a) Where there has been a finding or findings of one (1) or more instances of a violation of Section 1 above with respect to any one NBA Season during the term of this Agreement which, either individually or in total, involved five (5) or more Teams and caused injury to five (5) or more players; or
+(b) Where there has been a finding or findings of one (1) or more instances of a violation of Section 1 above with respect to any two (2) consecutive NBA Seasons during the term of this Agreement which, either individually or in total, involved seven (7) or more Teams and caused economic injury to seven (7) or more players. For purposes of this Section 15(b), a player found to have been injured by a violation of Section 1 above in each of two (2) consecutive Seasons shall be counted as an additional player injured by such a violation for each such NBA Season; or
+(c) Where, in a proceeding brought by the Players Association, it is shown by clear and convincing evidence that during the term of this Agreement ten (10) or more Teams have engaged in a violation or violations of Section 1 above, causing economic injury to one or more NBA players. In order to terminate this Agreement pursuant to this Section 15(c) and Article XXXIX, Section 3 of this Agreement:
+    (i) the proceeding must be brought by the Players Association; and
+    (ii) the NBA and the System Arbitrator must be informed at the outset of any such proceeding that the Players Association is proceeding under this Section 15(c) for the purpose of establishing its entitlement to terminate this Agreement.
+
+## Discovery.
+
+(a) In any of the actions described in this Article XIV, the System Arbitrator shall grant reasonable and expedited discovery upon the application of any party where, and to the extent, he or she determines it is reasonable to do so. Such discovery may include the production of documents and the taking of depositions.
+(b) Notwithstanding Section 16(a) above, the Players Association and the NBA shall each have the right to obtain discovery upon request in any three (3) proceedings brought under this Article XIV during the term of this Agreement. The scope and extent of such discovery shall be determined by the System Arbitrator.
+
+## Time Limits.
+
+Any action under Section 1 above must be brought within ninety (90) days of the time when the player knows or reasonably should have known that he had a claim, or within ninety (90) days of the start of the NBA Season in which a violation of Section 1 above is claimed, whichever is later. In the absence of a System Arbitrator, the complaining party shall file such claim for breach of this Agreement pursuant to Section 301 of the Labor Management Relations Act in either the U.S. District Court for the Southern District of New York or the U.S. District Court for the District of New Jersey. Any party alleged to have violated Section 1 shall have the right, prior to any proceedings on the merits, to make an initial motion to dismiss any complaint that does not comply with the timeliness requirement of this Section 17.
