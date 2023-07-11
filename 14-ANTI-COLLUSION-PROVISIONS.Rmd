@@ -2,7 +2,7 @@
 
 ## No Collusion.
 
-Subject to Section 2 below, no NBA Team, its employees or agents, will enter into any contracts, combinations or conspiracies, express or implied, with the NBA or any other NBA Team, their employees or agents: (a) to negotiate or not to negotiate with any Veteran or Rookie; (b) to submit or not to submit an Offer Sheet to any Restricted Free Agent; (c) to offer or not to offer a Player Contract to any Free Agent; (d) to exercise or not to exercise a Right of First Refusal; or (e) concerning the terms or conditions of employment offered to any Veteran or Rookie.
+Subject to Section 2 below, no NBA Team, its employees or agents, will enter into any contracts, combinations, or conspiracies, express or implied, with the NBA or any other NBA Team, their employees or agents: (a) to negotiate or not to negotiate with any Veteran or Rookie; (b) to submit or not to submit an Offer Sheet to any Restricted Free Agent; (c) to offer or not to offer a Player Contract to any Free Agent; (d) to exercise or not to exercise a Right of First Refusal; or (e) concerning the terms or conditions of employment offered to any Veteran or Rookie.
 
 ## Non-Collusive Conduct.
 
@@ -13,8 +13,8 @@ The following is a non-exhaustive list of conduct that shall not be deemed a vio
 (c) an agreement between NBA Teams concerning the signing of a new Player Contract by a Veteran Free Agent with his Prior Team, where such agreement is necessary for the subsequent assignment of the new Player Contract between the agreeing Teams; provided, however, that this Section 2(c) shall apply only if the subsequent assignment is consummated, and only if the agreement and the new Player Contract comply with the provisions of Article VII, Section 8(e);
 (d) conduct authorized by the terms and conditions of the NBA Draft (as set forth in Article X above);
 (e) conduct authorized by any provision of this Agreement or conduct by the NBA League Office, undertaken in good faith, that reflects a reasonable interpretation of this Agreement or a Player Contract;
-(f) any action taken by the NBA League Office to exclude from the NBA, suspend or discipline any player for any reason authorized or permitted by any provision of this Agreement (this Section 2(f), however, shall not affect any other rights of any player or the Players Association to contest such action); or
-(g) any disapproval by the NBA Commissioner of a Player Contract, Extension, Renegotiation or other amendment.
+(f) any action taken by the NBA League Office to exclude from the NBA, suspend, or discipline any player for any reason authorized or permitted by any provision of this Agreement (this Section 2(f), however, shall not affect any other rights of any player or the Players Association to contest such action); or
+(g) any disapproval by the NBA Commissioner of a Player Contract, Extension, Renegotiation, or other amendment.
 
 ## Individual Negotiations.
 
@@ -25,7 +25,7 @@ No NBA Team shall fail or refuse to negotiate with, or enter into a Player Contr
 (c) that the player has become a Restricted Free Agent or an Unrestricted Free Agent; or
 (d) that the player is or has been subject to a Right of First Refusal.
 
-   The fact that a Team has not negotiated with, made any offers to, or entered into any Player Contracts with players who are free to negotiate and sign Player Contracts with any Team, shall not, by itself, be deemed proof that such Team failed or refused to negotiate with, make any offers to, or enter into any Player Contracts with any players on any of the prohibited grounds referred to in this Section 3.
+The fact that a Team has not negotiated with, made any offers to, or entered into any Player Contracts with players who are free to negotiate and sign Player Contracts with any Team, shall not, by itself, be deemed proof that such Team failed or refused to negotiate with, make any offers to, or enter into any Player Contracts with any players on any of the prohibited grounds referred to in this Section 3.
 
 ## League Disclosures.
 
@@ -38,7 +38,7 @@ The NBA League Office shall not knowingly communicate or disclose, directly or i
 
 ## Satisfaction of Burden of Proof.
 
-The failure by a Team or Teams to submit Offer Sheets to Restricted Free Agents, or to make offers or sign Contracts for the playing services of Free Agents shall not, by itself or in combination only with evidence about the playing skills of the player(s) not receiving such offers or contracts, satisfy the burden of proof set forth in Section 5 above. However, such evidence may support a finding of a violation of Section 1 above, but only in combination with other evidence that either by itself or in combination with the evidence referred to in the immediately preceding sentence indicates that the challenged conduct was in violation of Section 1 above and, except in cases where the Players Association seeks only declaratory relief or a direction to cease and desist from the challenged conduct, caused economic injury to such player(s).
+The failure by a Team or Teams to submit Offer Sheets to Restricted Free Agents, or to make offers or sign Contracts for the playing services of Free Agents, shall not, by itself or in combination only with evidence about the playing skills of the player(s) not receiving such offers or Contracts, satisfy the burden of proof set forth in Section 5 above. However, such evidence may support a finding of a violation of Section 1 above, but only in combination with other evidence that either by itself or in combination with the evidence referred to in the immediately preceding sentence indicates that the challenged conduct was in violation of Section 1 above and, except in cases where the Players Association seeks only declaratory relief or a direction to cease and desist from the challenged conduct, caused economic injury to such player(s).
 
 ## Summary Judgment.
 
@@ -48,8 +48,8 @@ The System Arbitrator may, at any time following the conclusion of any permitted
 
 In the event that an individual player or players, or the Players Association acting on his or their behalf, successfully proves a violation of Section 1 above that has caused economic injury, the player or players determined by the System Arbitrator to have suffered economic injury as a result of the violation will have the right:
 
-(a) to terminate his (or their) existing Player Contract(s) at his (or their) option (however, such termination shall not take effect until the conclusion of a then-ongoing NBA Season, if any). Such right of termination shall not arise until the recommendation of the System Arbitrator finding a violation is no longer subject to further appeal and must be exercised by the player within thirty (30) days therefrom. If, at the time the Player Contract is terminated, such player would have been an Unrestricted Free Agent pursuant to the provisions of this Agreement, he shall immediately become an Unrestricted Free Agent. If, at the time the Player Contract is terminated, such player would have been a Restricted Free Agent pursuant to the provisions of this Agreement, such player shall immediately become a Restricted Free Agent upon such termination; however, any such player may choose to reinstate his Player Contract at any time up until September 15 of that year; and
-(b) to recover damages as described in Section 9 below. However, if the player terminates his Player Contract under Section 8(a) above and does not reinstate it pursuant thereto, he may not recover damages for the period after such termination takes effect. A player who does not terminate his contract, or who reinstates it pursuant to Section 8(a) above, may recover damages for the entire period of his injury.
+(a) to terminate his (or their) existing Player Contract(s) at his (or their) option (however, such termination shall not take effect until the conclusion of a then-ongoing NBA Season, if any). Such right of termination shall not arise until the recommendation of the System Arbitrator finding a violation is no longer subject to further appeal and must be exercised by the player within thirty (30) days therefrom. If, at the time the Player Contract is terminated, such player would have been an Unrestricted Free Agent pursuant to the provisions of this Agreement, he shall immediately become an Unrestricted Free Agent upon such termination. If, at the time the Player Contract is terminated, such player would have been a Restricted Free Agent pursuant to the provisions of this Agreement, such player shall immediately become a Restricted Free Agent upon such termination; however, any such player may choose to reinstate his Player Contract at any time up until September 15 of that year; and
+(b) to recover damages as described in Section 9 below. However, if the player terminates his Player Contract under Section 8(a) above and does not reinstate it pursuant thereto, he may not recover damages for the period after such termination takes effect. A player who does not terminate his Contract, or who reinstates it pursuant to Section 8(a) above, may recover damages for the entire period of his injury.
 
 ## Calculation of Damages.
 

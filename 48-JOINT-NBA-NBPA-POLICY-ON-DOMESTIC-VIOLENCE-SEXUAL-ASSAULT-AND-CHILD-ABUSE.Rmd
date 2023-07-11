@@ -1,9 +1,9 @@
 # JOINT NBA/NBPA POLICY ON DOMESTIC VIOLENCE, SEXUAL ASSAULT, AND CHILD ABUSE
 \chaptermark{JOINT NBA/NBPA POLICY ON DOMESTIC VIOLENCE, SEXUAL ASSAUL \ldots}
 
-Through this Policy, the National Basketball Association ("NBA") and the National Basketball Players Association ("NBPA") (collectively, "the Parties") have agreed to work together to address domestic violence, sexual assault, and child abuse in the NBA. 
+Through this Policy, the National Basketball Association ("NBA") and the National Basketball Players Association ("NBPA") (collectively, "the Parties") have agreed to work together to address domestic violence, sexual assault, and child abuse in the NBA.
 
-<u>**Covered Behavior**</u>
+<U>**Covered Behavior**</U>
 
 Acts that constitute domestic violence, sexual assault, and child abuse are prohibited at all times and regardless of where they occur.
 
@@ -13,7 +13,7 @@ For purposes of this Policy, "sexual assault" includes, but is not limited to, a
 
 For purposes of this Policy, "child abuse" includes, but is not limited to, any act or failure to act by a parent, caregiver, or adult that results in death, serious physical or emotional harm, or sexual or other exploitation of a child. Child abuse also includes behavior that poses an imminent risk of such harm to a child.
 
-<u>**Policy Committee**</u>
+<U>**Policy Committee**</U>
 
 The Parties shall establish a joint committee to provide education, support, treatment, referrals, counseling, and other resources for players, their family members, and others at risk (the "Policy Committee"). The Policy Committee will be comprised of two representatives from the NBA and two representatives from the NBPA (the "Party Representatives"), as well as three independent experts with experience in domestic violence, sexual assault, and/or child abuse (the "Expert Representatives"). All decisions of the Policy Committee shall be made by a majority vote, unless otherwise stated in this Policy, and shall be final, binding, and unappealable.
 
@@ -21,49 +21,49 @@ The Party Representatives shall jointly select the three Expert Representatives 
 
 In the event that the Party Representatives are unable to agree upon and jointly select any or all of the Expert Representatives within 60 days of the issuance of this Policy or within 30 days of the notice of any discharge of an Expert Representative, the following process will be implemented. Within five days following the deadline to select the Expert Representative(s), the Party Representatives shall exchange lists containing the names and qualifications of three proposed Expert Representatives per open position. Within five days following the exchange of such lists, the Party Representatives shall jointly select from that group of individuals the Expert Representative(s) needed to serve on the Policy Committee. If they are unable to do so, then, within an additional three-day period, the Party Representatives shall engage in a process of alternatively striking names from the lists until one name remains for each open position, and such person(s) shall be appointed as the Expert Representative(s).
 
-<u>**Training and Education**</u>
+<U>**Training and Education**</U>
 
 The Parties seek to prevent incidents of domestic violence, sexual assault, and child abuse from occurring through educational programs and awareness training.
 
 The Policy Committee will implement and oversee all training and educational programs for NBA players that address issues of domestic violence, sexual assault, and child abuse, and shall make all determinations related thereto including, but not limited to, the staffing, content, format, and frequency of such programs. The Policy Committee will annually review such programs to ensure that they are effective and that the content is appropriate, thorough, and properly communicated to the players.
 
-<u>**Hotline**</u>
+<U>**Hotline**</U>
 
 Within 60 days of the issuance of this Policy, the Parties shall jointly select a service provider to support a 24-hour, confidential hotline that can be used by players, their families, and other victims of domestic violence, sexual assault, and child abuse as defined by this Policy to seek assistance and referrals (the "Service Provider").
 
 If the Parties are unable to do so, then, within five days following the deadline to select the Service Provider, they shall exchange lists containing the names, qualifications, and cost of three proposed Service Providers. Within five days following the exchange of such lists, the Parties shall jointly select the Service Provider. If the Parties are unable to do so, then, within an additional three-day period, they shall engage in a process of alternatively striking names from the lists until one name remains, and such organization shall be appointed as the Service Provider.
 
-<u>**Treatment and Intervention**</u>
+<U>**Treatment and Intervention**</U>
 
-1. <u>**General**</u>
-
+1. <U>General</U>
+    
     The NBA or the NBPA may refer a player to the Policy Committee in any of the following circumstances:
-
+    
     a. As part of a disciplinary determination of the Commissioner for conduct in violation of this Policy; or
     b. After a Player is criminally convicted of an offense that involves conduct in violation of this Policy.
-
+    
     The Policy Committee will also be available as a resource to any player who voluntarily seeks assistance.
-
+    
     Once a player has been referred to the Policy Committee, an expert selected by the Policy Committee will conduct an initial evaluation of the player as soon as is practicable. Following such evaluation, the Policy Committee will develop a Treatment and Accountability Plan ("TAP") for the player, as may be appropriate. As part of the TAP, the Policy Committee may require that the player submit to psychological or other evaluations and/or attend counseling sessions with a licensed professional, and take other steps that it deems necessary. In developing the TAP, the Policy Committee will take into account any treatment or counseling that the player may have initiated on his own or pursuant to a criminal resolution of any charges against him.
-
+    
     The Policy Committee will oversee the player's compliance with any TAP, and shall provide additional support to the player as needed. Any treating professionals shall provide regular, written status reports to the Policy Committee that detail the player's progress and compliance with the TAP. The Policy Committee may periodically revise, modify, extend, or close the TAP on its own initiative, on the recommendation of the player's treating professional(s), or upon petition of the player. All information related to a player's involvement with the Policy Committee shall be kept confidential.
-
+    
     The Policy Committee shall determine whether the player has successfully completed his TAP, and may also issue a revised TAP at any time. A player must receive a certification of completion from the Policy Committee in order to conclude his treatment and the oversight of the Policy Committee.
 
-2. <u>**Non-Compliance**</u>
-
+2. <U>Non-Compliance</U>
+    
     Players are required to comply with the directives of the Policy Committee, including with his TAP. If the Policy Committee determines that a player has failed to comply without a reasonable explanation, it shall notify the NBA. For the first such instance of non-compliance, the NBA shall issue a warning to the player. If such non-compliance continues for three additional days after the warning is issued, or for the second or any additional instances of non-compliance as determined by the Policy Committee, the NBA shall fine the player in the amount of \$10,000 for each day that he fails to comply. Such fines shall continue until the player has, in the judgment of the Policy Committee, resumed full compliance.
-
+    
     If the Policy Committee determines that a player has demonstrated substantial non-compliance, without a reasonable explanation, through a pattern of behavior that demonstrates a mindful disregard for his treatment responsibilities, it shall notify the NBA, which shall thereupon impose:
-
+    
     a. A one-game suspension for the first instance of substantial non-compliance; and
     b. A suspension that is at least one game longer than his immediately-preceding suspension for each additional instance of substantial non-compliance and that shall continue until, in the judgment of the Policy Committee, the player resumes full compliance with its directives, including with his TAP.
 
-<u>**Costs**</u>
+<U>**Costs**</U>
 
 Any and all costs of the training, education, treatment, intervention, and other resources described above including, but not limited to, the Policy Committee, Expert Representatives, education and training programs, hotline, experts, and counselors, will be shared equally by the Parties (unless otherwise covered by the NBA Players Group Health Plan or other insurance plan provided to NBA players). The NBPA's share shall be paid by the NBA and included in Player Benefits under Article IV, Section 6 of the CBA. The NBA's share will be excluded from the calculation of Benefits under the CBA.
 
-<u>**Investigation of Incidents**</u>
+<U>**Investigation of Incidents**</U>
 
 The NBA will give the NBPA and the player prompt notice of the commencement of any investigation into an alleged violation of this Policy.
 
@@ -71,13 +71,13 @@ The NBA's investigation may include the use of third party resources including, 
 
 The NBA will notify the NBPA when it has concluded its investigation and report whether it believes a violation of the Policy has occurred.
 
-<u>**Cooperation**</u>
+<U>**Cooperation**</U>
 
 Except in circumstances where the player has a reasonable apprehension of criminal prosecution, players shall cooperate fully with any NBA investigation under this Policy. Any player interviewed by the NBA as part of its investigation is entitled to have a representative from the NBPA present during the interview, and the NBA will provide the NBPA with at least 48 hours' notice before any in-person interview.
 
-Failing to cooperate in full, or interfering in any manner, with an NBA investigation will subject the non-cooperative individual to discipline consistent with the terms of Article VI, Section 11(a) of the CBA. It may constitute a violation of this cooperation requirement for a player to attempt to or enter into any agreement with a witness, victim, or other party that would discourage or prevent that individual from cooperating with an NBA investigation. However, the player is under no obligation to demand, request or otherwise encourage anyone to cooperate with an NBA investigation.
+Failing to cooperate in full, or interfering in any manner, with an NBA investigation will subject the non-cooperative individual to discipline consistent with the terms of Article VI, Section 11(a) of the CBA. It may constitute a violation of this cooperation requirement for a player to attempt to or enter into any agreement with a witness, victim, or other party that would discourage or prevent that individual from cooperating with an NBA investigation. However, the player is under no obligation to demand, request, or otherwise encourage anyone to cooperate with an NBA investigation.
 
-<u>**Administrative Leave**</u>
+<U>**Administrative Leave**</U>
 
 While an investigation is pending, the Commissioner may at any time place the player on administrative leave with pay for a reasonable period of time. The parties agree that administrative leave is not intended to be routinely applied during the pendency of every player investigation under this Policy. Instead, administrative leave should be applied in only those cases in which a balancing of all relevant factors clearly establishes that it is reasonable to do so under the totality of the circumstances.
 
@@ -100,7 +100,7 @@ While on administrative leave, the player shall be ineligible to play in any of 
 
 A player may challenge the decision to be placed on paid administrative leave under the Grievance and Arbitration Procedure of the CBA. In evaluating such a challenge, the Grievance Arbitrator will determine whether it was reasonable for the Commissioner to place the player on administrative leave. A player may also request the Grievance Arbitrator review the length of a period of administrative leave that exceeds seven days. In such a proceeding, the Grievance Arbitrator will determine whether administrative leave in excess of seven days is reasonable based on the totality of the circumstances. Once a player challenges the decision to be placed on paid administrative leave, or the duration of such leave, the hearing before the Grievance Arbitrator must take place within 72 hours.
 
-<u>**Discipline**</u>
+<U>**Discipline**</U>
 
 Based on a finding of just cause, the Commissioner may fine, suspend, or dismiss and disqualify from any further association with the NBA and its teams a player who engages in prohibited conduct in violation of this Policy. Repeat offenders will be subject to enhanced discipline.
 
@@ -136,20 +136,20 @@ In cases where the Commissioner imposes a suspension, any period of time the pla
 
 Challenges to any disciplinary action shall be made through the Grievance Arbitration process of the CBA.
 
-<u>**Confidentiality**</u>
+<U>**Confidentiality**</U>
 
 The Parties recognize the importance of confidentiality and privacy to the success of this Policy. Accordingly, the Parties will maintain confidentiality throughout the investigatory, disciplinary, and treatment process, and will take reasonable measures to protect the information gathered pursuant to this Policy, including by any outside advisors or experts. Any medical information obtained during the investigatory, disciplinary, and treatment process will be kept confidential as required by applicable law.
 
 At the same time, the Parties recognize that disclosure of certain information may be necessary to further the NBA's investigation or may be required by law, including by court order or subpoena. Accordingly, the Parties cannot and do not guarantee that complete confidentiality will be maintained. The Parties also reserve the right to make notifications to law enforcement or other appropriate authorities if either the NBA or the NBPA becomes aware that there is a threat of imminent harm to any individual or in cases where the victim is a child or is either mentally or physically incapacitated. Additionally, in matters where a violation is found and discipline is imposed, such findings and discipline may be the subject of public statements by the NBA and/or the NBPA.
 
-<u>**Retaliation**</u>
+<U>**Retaliation**</U>
 
 Under this Policy, it is prohibited to retaliate, or threaten to retaliate, against any individual who, in good faith, reports a potential violation of this Policy or who honestly participates in an investigation of such a report. It does not matter whether the investigation establishes that a violation of the Policy occurred, as long as the report of the violation or participation in the investigation is in good faith. Such retaliation includes, but is not limited to, threats, intimidation, harassment, and any adverse employment or other action, whether express or implied. Anyone who retaliates, or threatens to retaliate, against an individual who reports, or participates in an investigation into, an alleged violation of this Policy, or against any victim or other witness, will be subject to independent disciplinary action.
 
-As with any complaint brought in bad faith, any individual, including coaches, general managers, or other team officials, who reports a violation of this Policy knowing such claim is malicious, false, or fundamentally frivolous shall be subject to disciplinary action. 
+As with any complaint brought in bad faith, any individual, including coaches, general managers, or other team officials, who reports a violation of this Policy knowing such claim is malicious, false, or fundamentally frivolous shall be subject to disciplinary action.
 
-<u>**Reporting**</u>
+<U>**Reporting**</U>
 
 Anyone who is the victim of or acting on behalf of a victim of domestic violence, sexual assault, or child abuse, as defined by this Policy, is strongly encouraged to call the hotline established under this Policy as soon as possible after the incident to discuss the availability of counseling, treatment, security, and other appropriate resources.
 
-<u>If you are in immediate danger or involved in a situation in which another person is in immediate danger, the Parties recommend that you contact 911 or your local police department. Support and crisis intervention is also available from the National Domestic Violence Hotline at 1-800-799-SAFE (7233).</u>
+<U>If you are in immediate danger or involved in a situation in which another person is in immediate danger, the Parties recommend that you contact 911 or your local police department. Support and crisis intervention is also available from the National Domestic Violence Hotline at 1-800-799-SAFE (7233).</U>
