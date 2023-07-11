@@ -1,13 +1,30 @@
+\usepackage[margin=1in]{geometry}
 \usepackage{booktabs}
 \usepackage{enumitem}
-\setlistdepth{9}
 
-\renewlist{enumerate}{enumerate}{9}
+% Without these you get ! LaTeX Error: Too deeply nested.
+\setlistdepth{10}
+\renewlist{enumerate}{enumerate}{10}
 \setlist[itemize]{labelsep=.5em}
 
+% Correct for the way articles/sections are defined and pretty the TOC
 \usepackage{fancyhdr}
-\usepackage{tocstyle}
-\usetocstyle{standard}
+\usepackage{tocbasic}
+
+\DeclareTOCStyleEntry[%
+  entryformat=\bfseries,
+  pagenumberformat=\bfseries,
+]{tocline}{chapter}
+\DeclareTOCStyleEntries[
+  pagenumberbox=\hbox,
+  dynnumwidth
+]{tocline}{%
+  chapter,section,subsection,subsubsection,paragraph,subparagraph,%
+  figure,table
+}
+\DeclareTOCStyleEntries[
+  dynindent
+]{tocline}{subsection,subsubsection,subparagraph}
 
 \renewcommand{\chaptername}{Article}
 \renewcommand{\thechapter}{\Roman{chapter}}
